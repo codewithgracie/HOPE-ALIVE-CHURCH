@@ -1,0 +1,70 @@
+/* Typography Styles */
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.5rem !important;
+    margin-bottom: 1rem !important;
+    color: #CC1133 !important;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: #CC1133 !important;
+    text-decoration: none;
+}
+
+p {
+    font-size: 1.1rem !important;
+    line-height: 1.6 !important;
+}
+
+/* Section Headings */
+.section-title h2,
+.heading-section h2,
+.ftco-heading-2,
+.footer-heading {
+    font-size: 1.5rem !important;
+    color: #CC1133 !important;
+    margin-bottom: 1rem !important;
+}
+
+/* Service Boxes */
+.services-2 .text h3,
+.services-wrap .text h3 {
+    font-size: 1.5rem !important;
+    color: #CC1133 !important;
+    margin-bottom: 1rem !important;
+}
+
+.services-2 .text p,
+.services-wrap .text p {
+    font-size: 1.1rem !important;
+    line-height: 1.6 !important;
+}
+
+/* Mission Section */
+.text p {
+    font-size: 1.1rem !important;
+    line-height: 1.6 !important;
+}
+
+/* Footer */
+.footer p {
+    font-size: 1rem !important;
+    line-height: 1.6 !important;
+}
+
+/* Navigation */
+.navbar-nav .nav-link {
+    font-size: 1.1rem !important;
+}
+
+/* Quick Links */
+.list-unstyled li a {
+    font-size: 1.1rem !important;
+    line-height: 1.6 !important;
+}
+
+/* Contact Information */
+.contact-info p,
+.contact-info a {
+    font-size: 1.1rem !important;
+    line-height: 1.6 !important;
+}
